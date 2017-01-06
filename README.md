@@ -1,2 +1,3 @@
 # 尝试在github写作
-## 二级标题：听说在gitghub写作好酷
+## 目录
+[目录](preface.md)
